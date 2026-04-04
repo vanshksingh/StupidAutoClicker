@@ -81,7 +81,7 @@ Without this, keyboard/mouse control will NOT work.
 | pyautogui     | ~20–50 CPS   |
 | pynput (this) | ~100–200 CPS |
 
-> Actual performance depends on your OS and hardware.
+> Actual performance depends on your OS and hardware. (Can make target application lag)
 
 ---
 
